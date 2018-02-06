@@ -56,8 +56,17 @@
   
   .col-1, .col-2, .col-3 {
     width: 100%;
-    margin: 5px;
+    margin: 10px;
     float: none;
+  }
+  
+  .border-right {
+    border: 0;
+  }
+  
+  #details div {
+    height: auto;
+    padding-
   }
   
 }
