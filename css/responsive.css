@@ -35,12 +35,16 @@
   #social {
     top: 72px;
   }
+  
+  .col-3 {
+    
+  }
 
 }
 
 @media only screen and (max-width: 800px) {
   
-  #navbarnav a {
+  #navbar nav a {
     font-size: 0.9em;
   }
   
